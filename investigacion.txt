@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>aportacion de Peter Higgs</title>
+</head>
+<body bgcolor="#FFFFFF">
+    <table border="2" cellpadding="3" cellspacing="10" bordercolor="white" width="80%" align="center">
+        <caption align="top">
+            <font color="red" size="19" face="Arial">Biografia de Peter Higgs</font>
+        </caption>
+        <tr align="center">
+        </tr>
+        <tr>
+            <td align="center">
+                <img src="descarga (1).jfif" width="200" height="290" alt="Peter Higgs">
+            </td>
+            <td width="60%">
+                <font color="Black" size="3" face="Arial">
+                   Higgs es reconocido mundialmente por su predicción de la existencia de una nueva partícula, el llamado bosón de Higgs o “partícula de Dios”, la cual da explicación a cómo se formó la materia tras el Big Bang, reconoce un artículo de National Geographic España.
+
+Sus primeros trabajos se centraron en la física molecular y en el cálculo de los espectros vibratorios de las moléculas. En 1956 empezó a trabajar en la teoría cuántica de campos, relata la Enciclopedia Britannica.
+
+En 1964 el científico británico “escribió dos artículos en los que describía lo que más tarde se conocería como el mecanismo de Higgs, en el que un campo escalar (es decir, un campo presente en todos los puntos del espacio) confiere masa a las partículas”, continúa la plataforma. 
+
+No obstante, la revista rechazó el segundo artículo. Cuando Higgs lo revisó, añadió que su teoría predecía la existencia de un bosón pesado.
+
+La predicción, que realizó en 1964, fue confirmada casi 50 años después, gracias a los experimentos del Gran Colisionador de Hadrones del Centro Europeo para la Investigación Nuclear (CERN, por sus siglas en francés), relata la entidad académica.
+
+Tal como informó entonces National Geographic US, los científicos del CERN comunicaron en 2012 que habían detectado una señal interesante que probablemente correspondía a un bosón de Higgs. 
+                </font>
+            </td>
+        </tr>
+    </table>
+</body>
+</html>
